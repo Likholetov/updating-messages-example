@@ -1,13 +1,3 @@
-# updating-messages-examples
-Examples of updating messages of telegram bot
-
-Platform: Node.js 
-
-Thanks to: [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 
-
-## Usage
-
-```js
 const TelegramBot = require('node-telegram-bot-api')
 
 // replace the value below with the Telegram token you receive from @BotFather
@@ -53,4 +43,3 @@ bot.on('callback_query', query => {
         ]
     }})
 })
-```
