@@ -1,5 +1,5 @@
-# updating-messages-examples
-Examples of updating messages of telegram bot
+# updating-messages-example
+Example of updating messages of telegram bot
 
 Platform: Node.js 
 
